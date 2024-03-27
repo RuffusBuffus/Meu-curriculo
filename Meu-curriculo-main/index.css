@@ -1,0 +1,16 @@
+@font-face {
+    font-family: evanescent;
+    src: url(./fontes/evanescent_p.ttf);
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
+h2{
+    color: purple;
+    text-align: center;
+    text-decoration-line: underline ;
+    font-family: evanescent;
+    font-size: 50;
+}
